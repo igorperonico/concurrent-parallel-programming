@@ -1,0 +1,8 @@
+INFO 2024-07-22 09:00:00 - Service initialized
+ERROR 2024-07-22 09:05:12 - Configuration file not found
+INFO 2024-07-22 09:10:24 - Default configuration loaded
+WARN 2024-07-22 09:15:36 - Disk usage exceeds 90%
+ERROR 2024-07-22 09:20:48 - IOException while reading file
+INFO 2024-07-22 09:25:59 - Service running
+ERROR 2024-07-22 09:31:12 - Failed to write to log file
+INFO 2024-07-22 09:36:24 - Service shutdown initiated

@@ -1,0 +1,7 @@
+INFO 2024-07-20 10:00:01 - Server started
+ERROR 2024-07-20 10:05:43 - Failed to connect to database
+INFO 2024-07-20 10:10:23 - User login successful
+WARN 2024-07-20 10:15:12 - Low disk space
+ERROR 2024-07-20 10:20:34 - NullPointerException at line 42
+INFO 2024-07-20 10:25:47 - User logout successful
+ERROR 2024-07-20 10:30:58 - OutOfMemoryError

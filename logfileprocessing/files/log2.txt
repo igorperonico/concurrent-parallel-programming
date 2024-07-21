@@ -1,0 +1,8 @@
+DEBUG 2024-07-21 08:00:00 - Debugging application start
+INFO 2024-07-21 08:05:32 - Application running
+ERROR 2024-07-21 08:10:45 - ArrayIndexOutOfBoundsException at line 23
+INFO 2024-07-21 08:15:56 - User login successful
+ERROR 2024-07-21 08:20:01 - User authentication failed
+INFO 2024-07-21 08:25:14 - Data saved successfully
+ERROR 2024-07-21 08:30:27 - Connection reset
+INFO 2024-07-21 08:35:39 - User logout successful
